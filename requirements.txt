@@ -7,3 +7,5 @@ langchain-groq
 langchain-huggingface
 huggingface_hub
 unstructured
+chromadb==0.4.15
+pysqlite3-binary==0.5.2
