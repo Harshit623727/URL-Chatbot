@@ -7,5 +7,7 @@ langchain-groq
 langchain-huggingface
 huggingface_hub
 unstructured
+
+# Add these two lines to fix the deployment error
 chromadb==0.4.15
 pysqlite3-binary==0.5.2
