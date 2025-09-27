@@ -8,3 +8,5 @@ langchain_groq
 langchain_huggingface
 huggingface_hub
 chromadb==0.4.15
+sentence-transformers
+huggingface-hub
