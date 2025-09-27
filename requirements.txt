@@ -1,11 +1,10 @@
+pip==25.2
 streamlit
 python-dotenv
 langchain
 langchain-community
 langchain-chroma
-langchain-groq
-langchain-huggingface
+langchain_groq
+langchain_huggingface
 huggingface_hub
-unstructured
 chromadb==0.4.15
-pysqlite3-binary==0.5.2
