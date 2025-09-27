@@ -14,3 +14,6 @@ __pycache__/
 
 # VS Code settings
 .vscode/
+
+.vscode/
+resources/vector_store/
