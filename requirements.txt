@@ -1,13 +1,18 @@
 streamlit
 python-dotenv
-langchain
-langchain-core
-langchain-community
-langchain-chroma
-langchain-groq
-langchain-huggingface
+
+# Core LangChain packages
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langchain-chroma>=0.1.0
+langchain-groq>=0.1.0
+langchain-huggingface>=0.1.0
+langchain-text-splitters>=0.3.0
+
+# Supporting dependencies
+chromadb>=0.4.15
 huggingface-hub
-chromadb==0.4.15
 sentence-transformers
 unstructured
 requests-html
